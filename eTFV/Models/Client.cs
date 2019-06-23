@@ -7,6 +7,7 @@ namespace eTFV.Models
 {
     public class Client
     {
+        /*Simplae change*/
         public int ClientID { get; set; }
 
         public string ClientName { get; set; }
